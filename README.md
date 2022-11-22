@@ -238,23 +238,7 @@ supported
 unordered or ordered list
 supported)
 
-## 10. Horizontal Rules 수평선
-* \- 또는 * 또는 _ 을 3개 이상 작성.
-* 단, -을 사용할 경우 header로 인식할 수 있으니 이 전 라인은 비워두어야 합니다.
-### Syntax 마크다운 사용법
-	* * *
-	***
-	*****
-	- - -
-	-------------------
-### Demonstration 실행결과
-* * *
-***
-*****
-- - -
--------------------
-
-## 11. Emoji 이모티콘
+## 10. Emoji 이모티콘
 * 마크다운을 이용해 이모티콘을 표현가능.
 * 깃허브도 적용가능.
 * 더 많은 리스트는 아래의 사이트로 방문.
@@ -268,7 +252,7 @@ GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:
 
-## 12. Table 테이블
+## 11. Table 테이블
 * 헤더와 셀을 구분할 때 3개 이상의 `-`(hyphen/dash) 기호가 필요합니다.
 * 헤더 셀을 구분하면서 :(Colons) 기호로 셀(열/칸) 안에 내용을 정렬할 수 있습니다.
 * 가장 좌측과 가장 우측에 있는 |(vertical bar) 기호는 생략 가능합니다.
@@ -323,9 +307,3 @@ You got me high so fast <br>
 Oh my my my oh my my my <br>
 You got me fly so fast
 이제 조금은 나 알겠어 <br>
-
-## 14. Reference 참고 링크
-* [Matering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [마크다운 위키백과](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)
-* [존 그루버의 웹사이트](https://daringfireball.net/projects/markdown/)
-
