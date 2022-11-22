@@ -231,8 +231,7 @@ supported)
 ## 10. Emoji 이모티콘
 * 마크다운을 이용해 이모티콘을 표현가능.
 * 깃허브도 적용가능.
-* 더 많은 리스트는 아래의 사이트로 방문.
-* www.emoji-cheat-sheet.com
+
 ### 마크다운 사용법
 	GitHub supports emoji!
 	:+1: :sparkles: :camel: :tada:
